@@ -20,6 +20,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['https://digikala3-1.onrender.com']
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
